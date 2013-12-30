@@ -19,6 +19,7 @@
 
 # Live Wallpapers
 PRODUCT_PACKAGES += \
+        GestureSettings \
         LiveWallpapers \
         LiveWallpapersPicker \
         VisualizationWallpapers
