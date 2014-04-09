@@ -159,3 +159,5 @@ MALLOC_IMPL := dlmalloc
 BOARD_HAS_NO_SELECT_BUTTON := true
 
 BOARD_HARDWARE_CLASS := device/lge/mako/cmhw/
+
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := /data/linaro/current/bin/arm-cortex_a15-linux-gnueabihf-
